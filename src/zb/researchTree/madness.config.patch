@@ -1,0 +1,37 @@
+[
+  //blender
+  {
+    "op" : "add",
+    "path" : "/researchTree/frackinuniversemadness/liquid_tier2",
+    "value" : {
+      "icon" : "/zb/researchTree/madnessTree/blender.png",
+      "children" : [ ],
+      "position" : [160, -30],
+      "price" : [["fumadnessresource", 200],["fuscienceresource", 400]],
+      "unlocks" : [ ]
+    }
+  },
+  {
+    "op" : "add",
+    "path" : "/researchTree/frackinuniversemadness/basicelder/children/-",
+    "value" : "liquid_tier2"
+  },
+  //strings
+  {
+    "op" : "add",
+    "path" : "/strings/research/liquid_tier2",
+    "value" : [ "Liquify Everything!", "^orange;Tier 2^reset;\n\nYour obsession with scientific experimentation knows no limits. Liquify everything for the sake of science! Will it blend?!" ]
+  },
+  //acronyms
+  {
+    "op" : "add",
+    "path" : "/acronyms/frackinuniversemadness/ROOTLIQ01",
+    "value" : "liquid_tier2"
+  },
+  //hidden research
+  {
+    "op" : "add",
+    "path" : "/hiddenResearch/frackinuniversemadness/-",
+    "value" : "ROOTLIQ01"
+  }
+]
