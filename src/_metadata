@@ -1,0 +1,9 @@
+{
+  "author" : "Bardez",
+  "description" : "This mod is a useless supplement on its own (microservices meet mods!), but a utility intended to extend the following mods:\n[list]\n  [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=729480149]Frackin' Universe[/url]\n  [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2891773441]mORE Liquids/Frackin' Universe Patch[/url]\n  [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2901206066]Frackin' Liquids: Madness[/url]\n[/list]\n\nThis mod does the following:\n[list]\n [*] Adds a new branch on the madness research tree for liquids. That's it.\n[/list]\n\n\n\nBoring Stuff:\n[url=https://github.com/BardezAnAvatar/Starbound-bardez-frackin-research-madness-liquids]Source on GitHub[/url]",
+  "friendlyName" : "Frackin' Universe Research: Madness: Liquify Everything!",
+  "includes" : ["FrackinUniverse"],
+  "name" : "bardez-frackin-research-madness-liquids",
+  "tags" : "Crafting and Building|Miscellaneous",
+  "version" : "1.0.0"
+}
