@@ -27,5 +27,11 @@
     "op" : "add",
     "path" : "/acronyms/frackinuniversemadness/ROOTLIQ01",
     "value" : "liquid_tier2"
+  },
+  //hidden research
+  {
+    "op" : "add",
+    "path" : "/hiddenResearch/frackinuniversemadness/-",
+    "value" : "ROOTLIQ01"
   }
 ]
